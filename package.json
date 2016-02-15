@@ -1,0 +1,11 @@
+{
+  "name": "betting-game-V2",
+  "version": "1.0.0",
+  "description": "Lighthouse Betting Game V2",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
